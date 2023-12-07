@@ -6,7 +6,7 @@ metadata:
   annotations:
     # optional annotations
     harness.io/pipelines: |
-      Pipeline1: https://app.harness.io/ng/account/yAunUWynSYye5o20hS6aMw/home/orgs/default/projects/default_project/pipelines/Build_phacf_asdf_1701109987679/pipeline-studio/?storeType=REMOTE&connectorRef=account.Github_OAuth_1701109932824&repoName=phacf%2Fasdf&branch=main
+      Pipeline1: https://app.harness.io/ng/account/yAunUWynSYye5o20hS6aMw/home/orgs/default/projects/default_project/pipelines
       
     harness.io/services: |
       Service1: <harness_service_url>
