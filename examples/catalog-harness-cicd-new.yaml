@@ -6,7 +6,7 @@ metadata:
   annotations:
     # optional annotations
     harness.io/pipelines: |
-      label: https://app.harness.io/ng/account/DYcmgCS_T1SmKPUfB5gMdQ/home/orgs/infra_ops/projects/banco_de_dados/pipelines/harness_cd_k8s_v8/pipeline-studio/?storeType=INLINE      
+      labelA: https://app.harness.io/ng/account/yAunUWynSYye5o20hS6aMw/home/orgs/default/projects/default_project/pipelines/Build_phacf_asdf_1701109987679/pipeline-studio/?storeType=REMOTE&connectorRef=account.Github_OAuth_1701109932824&repoName=phacf%2Fasdf&branch=main
   tags:
     - java
 
