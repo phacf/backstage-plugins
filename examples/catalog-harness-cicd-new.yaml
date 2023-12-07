@@ -9,8 +9,7 @@ metadata:
       Pipeline1: https://app.harness.io/ng/account/yAunUWynSYye5o20hS6aMw/home/orgs/default/projects/default_project/pipelines/Build_phacf_asdf_1701109987679/pipeline-studio/?branch=main&connectorRef=account.Github_OAuth_1701109932824&storeType=REMOTE&repoName=phacf%2Fasdf
       
     harness.io/services: |
-      Service1: https://app.harness.io/ng/account/yAunUWynSYye5o20hS6aMw/home/orgs/default/projects/default_project/services/asdaf?tab=configuration
-      
+      Service1: https://app.harness.io/ng/account/yAunUWynSYye5o20hS6aMw/home/orgs/default/projects/default_project/services/asdaf
   tags:
     - java
 
