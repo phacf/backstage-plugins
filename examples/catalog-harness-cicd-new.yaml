@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo
-  description: demo
+  name: demo1
+  description: demo1
   annotations:
     # optional annotations
     harness.io/pipelines: |
