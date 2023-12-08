@@ -8,7 +8,7 @@ metadata:
     harness.io/pipelines: |
       labelA: |
         https://app.harness.io/ng/account/DYcmgCS_T1SmKPUfB5gMdQ/home/orgs/aluguel_de_carros/projects/atracao_e_reservas/pipelines/harness_cd_k8s/deployments/6LLZ_vydStGKg4UhDoWZlw/pipeline?storeType=INLINE 
-  tags:
+  tags: |
     - java
 
   links:
